@@ -51,19 +51,10 @@ I am a dedicated developer and researcher with a strong interest in **Data Scien
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Contact Information
 
 - **Email**: [sabrinayesmin207@gmail.com](mailto:sabrinayesmin207@gmail.com)  
 - **Location**: Bangladesh  
-- **Portfolio**: Coming Soon  
 
 ---
 
