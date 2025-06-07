@@ -1,4 +1,4 @@
-<h1 align="center">saba</h1>
+<h1 align="center">Sabrina Yesmin</h1>
 <h3 align="center">Developer | Data Scientist | ML & AI Enthusiast</h3>
 
 ---
@@ -37,8 +37,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sabrinayesmin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=sabrinayesmin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+###
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </div>
 
 ###
@@ -50,13 +55,6 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TlK63EQ2GX5Z9tCJNK/giphy.gif" height="180" alt="cute anime girl" />
+  <img src="https://github.com/ashutosh00710/github-readme-3d-contribution/raw/main/profile-night-rainbow.svg" alt="3D city contribution graph" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
-</div>
-
 ###
