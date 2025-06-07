@@ -45,11 +45,10 @@
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </div>
-
-
-
+###
 
 <div align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contribution/raw/main/profile-night-rainbow.svg" alt="3D city contribution graph" />
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" height="200" alt="cute pixel cafe cat" />
+  <br/>
+  <sub>just a cute little coder cat waiting in a pixel café ☕🐱</sub>
 </div>
-###
