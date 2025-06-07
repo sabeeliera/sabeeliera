@@ -45,10 +45,3 @@
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </div>
-
-
-
-<div align="center">
-  <img src="https://media.tenor.com/KHj4zv4JfdcAAAAC/anime-cat.gif" height="250" alt="anime girl with cat" />
-
-</div>
