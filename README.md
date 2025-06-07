@@ -49,7 +49,6 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9r8fKz9KZRk2k/giphy.gif" height="250" alt="cute girl with cat gif" />
-  <br/>
-  <sub>me + my favorite cat buddy after a long day of coding 🐱💻✨</sub>
+  <img src="https://media.tenor.com/KHj4zv4JfdcAAAAC/anime-cat.gif" height="250" alt="anime girl with cat" />
+
 </div>
